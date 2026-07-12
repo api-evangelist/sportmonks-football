@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://docs.sportmonks.com/football/
 common:
+  - type: DomainSecurity
+    url: security/sportmonks-football-domain-security.yml
   - type: Website
     url: https://docs.sportmonks.com/football/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.sportmonks.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
