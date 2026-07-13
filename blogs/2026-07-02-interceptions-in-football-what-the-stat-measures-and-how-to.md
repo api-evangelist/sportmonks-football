@@ -1,0 +1,8 @@
+---
+title: "Interceptions in Football: What the Stat Measures and How to Use It"
+url: "https://www.sportmonks.com/blogs/interceptions-football-stat/"
+date: "2026-07-02"
+author: "David Jaja"
+feed_url: "https://www.sportmonks.com/feed/"
+---
+Het bericht Interceptions in Football: What the Stat Measures and How to Use It verscheen eerst op Sportmonks .
