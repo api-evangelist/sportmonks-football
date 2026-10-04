@@ -33,13 +33,14 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Sports
+  - Sports Data
+  - Soccer
 apis:
   - name: Sportmonks Football
     description: "Football score/schedule, news api, tv channels, stats, history, display standing e.g. epl, la liga"
     humanURL: https://docs.sportmonks.com/football/
-    baseURL: https://docs.sportmonks.com/football/
     tags:
       - Sports And Fitness
     properties:
@@ -59,3 +60,5 @@ maintainers:
     email: kin@apievangelist.com
 x-parent: sportmonks
 x-relationship: product
+x-tags-removed:
+- Sports And Fitness
